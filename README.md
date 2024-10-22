@@ -16,7 +16,7 @@
 
 ## Шаги
 
-1. Склонировать проект 'git clone https://github.com/Pobutka/DIPLOM.git'
+1. Склонировать проект 'git clone https://github.com/Vladosssikc/diplom.git'
 2. Установить все зависимости из requirements.txt
 3. Скопировать access-token по инструкции ниже.
 3. Запустить тесты 'pytest -s -v --alluredir=allure-result' ИЛИ 'python -m pytest -s -v --alluredir=allure-result'
